@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Aircompany",
+    "\\AircompanyTests",
+    "\\AircompanyTests\\Tests",
+    "\\Aircompany\\Models",
+    "\\Aircompany\\Planes",
+    "\\Aircompany\\Properties"
+  ],
+  "SelectedNode": "\\AircompanyTests\\Tests\\AirportTest.cs",
+  "PreviewInSolutionExplorer": false
+}
